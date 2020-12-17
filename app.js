@@ -1,4 +1,4 @@
-// Section: Calculator object and functions
+// Section: Calculator class and functions
 class Calculator {
     constructor(previousOperandText, currentOperandText) {
         this.previousOperandText = previousOperandText
