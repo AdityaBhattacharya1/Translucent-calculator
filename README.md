@@ -1,12 +1,6 @@
  # Translucent-calculator
  A translucent, functional calculator. 
 
-## A translucent, functional calculator
-
-## Introduction
-
-A basic calculator using classes.
-
 ## Technologies
 
 Project is created with:
