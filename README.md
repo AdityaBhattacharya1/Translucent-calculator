@@ -1,5 +1,5 @@
  # Translucent-calculator
- A translucent, functional calculator. 
+ A translucent, functional whole numbers calculator. 
 
 ## Technologies
 
