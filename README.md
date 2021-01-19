@@ -15,3 +15,5 @@ Project is created with:
 PS. It might take some time to load the CSS and JavaScript files in the demo. In the meantime you can view the live project on:
 
 [Codepen](https://codepen.io/Coderindev/full/bGwWZrX)
+
+<img src="https://github.com/AdityaBhattacharya1/Translucent-calculator/blob/main/Calculator-demo.png" alt="calculator demo" />
